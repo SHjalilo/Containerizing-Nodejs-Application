@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-docker",
+  "version": "1.0.0",
+  "description": "Containerizing Nodejs Application With Docker Compose",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "github/SHjalilo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "redis": "3.1.2"
+  }
+}
